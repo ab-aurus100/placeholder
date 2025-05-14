@@ -1,0 +1,110 @@
+{
+  "gameCards": [
+    {
+      "id": "1",
+      "gameType": "Mixed Double",
+      "level": "Expert",
+      "time": "24 Mar 2025 8:30 AM - 9:30 AM",
+      "players": [
+        {
+          "id": "p1",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/96191d807044617753357baa364a80cf006cb37d"
+        },
+        {
+          "id": "p2",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/55e5209ae3c94adee8c759e85a9d9a4acbc69026"
+        }
+      ],
+      "knownTeammates": 1,
+      "location": {
+        "clubName": "Sportclub Houten",
+        "distance": "0.3 kms away"
+      },
+      "price": "€4 - €10 per player"
+    },
+    {
+      "id": "2",
+      "gameType": "Single",
+      "level": "Intermediate",
+      "time": "25 Mar 2025 10:00 AM - 11:00 AM",
+      "players": [
+        {
+          "id": "p3",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/96191d807044617753357baa364a80cf006cb37d"
+        }
+      ],
+      "knownTeammates": 0,
+      "location": {
+        "clubName": "Padel Dam",
+        "distance": "1.2 kms away"
+      },
+      "price": "€5 - €12 per player"
+    },
+    {
+      "id": "3",
+      "gameType": "Mixed Double",
+      "level": "Beginner",
+      "time": "26 Mar 2025 6:00 PM - 7:30 PM",
+      "players": [
+        {
+          "id": "p4",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/55e5209ae3c94adee8c759e85a9d9a4acbc69026"
+        },
+        {
+          "id": "p5",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/96191d807044617753357baa364a80cf006cb37d"
+        },
+        {
+          "id": "p6",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/55e5209ae3c94adee8c759e85a9d9a4acbc69026"
+        }
+      ],
+      "knownTeammates": 2,
+      "location": {
+        "clubName": "Tennis Club Amsterdam",
+        "distance": "0.8 kms away"
+      },
+      "price": "€6 - €15 per player"
+    },
+    {
+      "id": "4",
+      "gameType": "Double",
+      "level": "Advanced",
+      "time": "27 Mar 2025 7:00 PM - 8:30 PM",
+      "players": [
+        {
+          "id": "p7",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/96191d807044617753357baa364a80cf006cb37d"
+        }
+      ],
+      "knownTeammates": 0,
+      "location": {
+        "clubName": "Racket Sports Center",
+        "distance": "1.5 kms away"
+      },
+      "price": "€8 - €18 per player"
+    },
+    {
+      "id": "5",
+      "gameType": "Mixed Double",
+      "level": "Expert",
+      "time": "28 Mar 2025 9:00 AM - 10:30 AM",
+      "players": [
+        {
+          "id": "p8",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/55e5209ae3c94adee8c759e85a9d9a4acbc69026"
+        },
+        {
+          "id": "p9",
+          "imageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/96191d807044617753357baa364a80cf006cb37d"
+        }
+      ],
+      "knownTeammates": 1,
+      "location": {
+        "clubName": "Urban Padel",
+        "distance": "0.5 kms away"
+      },
+      "price": "€7 - €14 per player"
+    }
+  ]
+}
